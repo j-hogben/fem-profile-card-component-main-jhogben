@@ -24,8 +24,12 @@ module.exports = {
         fs14: "1.0625rem",
         fs18: "1.375rem",
       },
+      letterSpacing: {
+        statsCategory: "1.5px",
+      },
       margin: {
         profilePicMargin: "3.3125rem",
+        profilePicBorder: "0.3125rem",
       },
       padding: {
         cardBottom: "1.6875rem",
